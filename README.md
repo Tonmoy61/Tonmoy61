@@ -1,7 +1,6 @@
 [![MasterHead](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)](https://github.com/Tonmoy61)
 <h1 align="center">Hi 👋, I'm Radwan</h1>
 <h3 align="center">Experienced Software Test Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Manual and Automation Software Testing, TestNG, Java, and Test Planning. Skilled in Selenium, and Jmeter knowledge.</h3>
-
 <img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoy61&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoy61" /> </p>
@@ -15,15 +14,15 @@
 - 📫 How to reach me **tonmoy6060@gmail.com**
 
 - ⚡ Fun fact **I am so funny**
-
 - Favourite Quote: Don't judge each day by the harvest you reap but by the seeds that you plant.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tonmoyaiub641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonmoyaiub641" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-redwan-683972140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-redwan-683972140/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-redwan-683972140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-redwan-683972140" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/tonmoy.ahmed.98229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tonmoy.ahmed.98229/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/radwan_uta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/radwan_uta/" height="30" width="40" /></a>
+<a href="https://instagram.com/radwan_uta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radwan_uta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,5 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoy61&show_icons=true&locale=en" alt="tonmoy61" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoy61&" alt="tonmoy61" /></p>
+
 
 
