@@ -1,7 +1,7 @@
 
 [![MasterHead](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)](https://github.com/Tonmoy61)
 <h1 align="center">Hi 👋, I'm Radwan</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Experienced+Software+Test+Engineer;with+a+demonstrated+history;of+working+in+the+information+;technology+and+services+industry.;Skilled+in+Manual+and+Automation+;Software+Testing%2C+TestNG%2C+Java%2C;+and+Test+Planning.+Skilled+in+;in+Selenium%2C+and+Jmeter+knowledge." alt="Typing SVG" /></a>
+<h3 align="center">Experienced Software Test Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Manual and Automation Software Testing, TestNG, Java, and Test Planning. Skilled in Selenium, and Jmeter knowledge.</h3>
 <img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoy61&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoy61" /> </p>
