@@ -15,7 +15,7 @@
 - 📫 How to reach me **tonmoy6060@gmail.com**
 
 - ⚡ Extra Curricular Activities  **Traveling and photography, Playing Football and Cricket**
-- Favourite Quote: Don't judge each day by the harvest you reap but by the seeds that you plant.
+- Favourite Quote **Don't judge each day by the harvest you reap but by the seeds that you plant.**
 
 
 <h3 align="left">Connect with me:</h3>
